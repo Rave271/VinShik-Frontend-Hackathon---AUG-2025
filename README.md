@@ -1,0 +1,1 @@
+VinShik-Frontend-Hackathon—AUG-2025 is a front-end challenge submission that builds a clean, responsive dashboard layout with a branded sidebar and interactive navigation using HTML, CSS, and a small vanilla JavaScript snippet for active-state handling.
